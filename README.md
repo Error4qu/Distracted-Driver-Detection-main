@@ -87,21 +87,5 @@ Follwing are the results of the project:
                     Fig 6. ResNet-101 [Stratergy-2] performance measured using Class Activation Maps
 <div align="center"><img src="plots/class_activation_map.png"/></div>
 
-## Interpretation of Results
-
-
-- PCA gives better results compared to LDA and LDA over PCA 
-- AdaBoost performed poorly on all sets of data and proved to be a bad choice as data does not suffer from high variance. 
-- SVM on PCA projected feature set (HOG, LBP, Color Hist, SURF, GRAY, KAZE & RGB) gave the
-best metric scores because of the rich features and kernel tricks to classify data.
-- Among Deep Learning methods, ResNet-101 with stratery-2 i.e retrain last few layers gave best accuracy.
--  Feature Extration and Image Augumentation techniques helped in improving overall accuracy.
-
-## References
-
-1. H. Eraqi, Y. Abouelnaga, M. Saad, and M. Moustafa, “Driver Distraction Identification with an Ensemble of Convolutional Neural Networks”, Journal of Advanced Transportation 2019, 1-12; doi: 10.1155/2019/4125865
-2. [Class Activation maps](https://snappishproductions.com/blog/2018/01/03/class-activation-mapping-in-pytorch.html.html)
-3. [Distracted Driver Detection using Deep Learning](https://medium.com/@sam.bell_43711/distracted-driver-detection-using-deep-learning-ecc7216ae8d0)
-4. [ML techniques for Distacted Driver Detection](http://cs229.stanford.edu/proj2019spr/report/24.pdf)
 
 
