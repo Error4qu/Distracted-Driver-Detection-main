@@ -104,8 +104,3 @@ best metric scores because of the rich features and kernel tricks to classify da
 3. [Distracted Driver Detection using Deep Learning](https://medium.com/@sam.bell_43711/distracted-driver-detection-using-deep-learning-ecc7216ae8d0)
 4. [ML techniques for Distacted Driver Detection](http://cs229.stanford.edu/proj2019spr/report/24.pdf)
 
-## Project Team Members
-
-1. Akanksha Shrimal
-2. Akhil Mahajan 
-3. Prabal Jain 
